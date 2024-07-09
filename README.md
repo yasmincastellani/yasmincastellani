@@ -1,3 +1,5 @@
+<img src = "principal.jpeg" width = "325px" align = "right">
+
 ## Oii, pessoal! 👋 👩‍💻
 
 Sou a Yasmin, admiradora de desenvolvimento Front-end e estou focada em criar interfaces de usuário incríveis.
