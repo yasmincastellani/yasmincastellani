@@ -2,9 +2,9 @@
 
 <img src = "image.png" width="300" align="right">
 
-Sou a Yasmin, uma admiradora do desenvolvimento Front-end e estou focada em criar interfaces de usuário incríveis.
+Sou Yasmin, apaixonada pelo desenvolvimento web e sempre em busca de criar soluções que proporcionem experiências incríveis aos usuários.
 
-No momento, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, além de sempre explorar novas tecnologias e tendências no mundo do desenvolvimento web. Meu objetivo é criar interfaces que sejam funcionais e visualmente atraentes.
+Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, além de expandir meu conhecimento em outras tecnologias, explorando tanto o front-end quanto o back-end. Meu foco é desenvolver interfaces funcionais e atrativas, e contribuir para a criação de aplicações completas e de alta performance.
 
 ### Skills
 <p align="left">
