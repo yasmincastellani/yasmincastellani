@@ -2,9 +2,9 @@
 
 <img src = "image.png" width="300" align="right">
 
-Sou Yasmin, apaixonada pelo desenvolvimento web e sempre em busca de criar soluções que proporcionem experiências incríveis aos usuários.
+Sou Yasmin, apaixonada pelo desenvolvimento e sempre em busca de criar soluções que proporcionem experiências incríveis aos usuários.
 
-Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, além de expandir meu conhecimento em outras tecnologias, explorando tanto o front-end quanto o back-end. Meu foco é desenvolver interfaces funcionais e atrativas, e contribuir para a criação de aplicações completas e de alta performance.
+Atualmente, estou aprimorando minhas habilidades em Python e JavaScript, além de expandir meu conhecimento em outras tecnologias, explorando tanto o front-end quanto o back-end. Meu foco é desenvolver interfaces funcionais e atrativas, e contribuir para a criação de aplicações completas e de alta performance.
 
 ### Skills
 <p align="left">
