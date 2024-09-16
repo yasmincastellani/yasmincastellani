@@ -4,8 +4,7 @@
 
 Sou Yasmin, apaixonada pelo desenvolvimento e sempre em busca de criar soluções que proporcionem experiências incríveis aos usuários.
 
-Atualmente, estou aprimorando minhas habilidades em Python e JavaScript, além de expandir meu conhecimento em outras tecnologias, explorando tanto o front-end quanto o back-end. Meu foco é desenvolver interfaces funcionais e atrativas, e contribuir para a criação de aplicações completas e de alta performance.
-
+Atualmente, estou aprimorando minhas habilidades em Python e JavaScript, além de expandir meu conhecimento em outras tecnologias, explorando tanto o front-end quanto o back-end.
 ### Skills
 <p align="left">
   
